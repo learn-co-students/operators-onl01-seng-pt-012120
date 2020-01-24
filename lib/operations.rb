@@ -15,6 +15,6 @@ else
 end
 
 def not_safe?(speed)
-	if not_safe ? "true" : "false"
+	not_safe ? "true" : "false"
 end
 	
